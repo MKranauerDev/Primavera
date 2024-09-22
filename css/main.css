@@ -1656,4 +1656,7 @@ h1 {
   }
 }
 
+#audio{
+  display: none;
+}
 /* Agregar más estilos según sea necesario */
